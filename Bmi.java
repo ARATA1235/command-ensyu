@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class Bmi {
     public static void main(String[] args) {
         System.out.println("身長(m)、体重(㎏)を表記してください。");
         Scanner sc = new Scanner(System.in);
